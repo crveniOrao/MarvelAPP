@@ -1,24 +1,7 @@
 # marvel-app
 
-## Project setup
-```
-npm install
-```
+1. Run `npm install` to install dependencies 
+2. Run `npm run serve` to start the server
+3. Open `http://localhost:8080/` in your browser
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Home page is showing initial data provided by the API without any params passed. To search type start of any comic. To expand data filters click on calendar icon next to search
